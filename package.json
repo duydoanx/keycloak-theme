@@ -22,7 +22,7 @@
         "react": "18.1.0",
         "react-dom": "18.1.0",
         "@emotion/react": "^11.9.0",
-        "tss-react": "^3.7.0"
+        "tss-react": "^3.7.1"
     },
     "devDependencies": {
         "@types/node": "^15.3.1",
